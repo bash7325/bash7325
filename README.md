@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Brandon.
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning C#, JavaScript, T-SQL and Python.
+- 🌱 I’m currently learning C#, JavaScript, T-SQL, Typescript and Angular.
 - 📫 Email is the best way to reach me.
